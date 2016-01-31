@@ -4,9 +4,6 @@ import com.allen.tinyioc.factory.BeanFactory;
 import org.junit.Test;
 import com.allen.tinyioc.factory.AutowireCapableBeanFactory;
 
-/**
- * @author yihua.huang@dianping.com
- */
 public class BeanFactoryTest {
 
 	@Test
